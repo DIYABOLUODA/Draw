@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d563f2c59c34e5c4cb7571826fe59a64, type: 3}
+  m_Name: EpicCardList
+  m_EditorClassIdentifier: 
+  cardDataList:
+  - item: {fileID: 11400000, guid: 98d533c76c47dae408fa6f5b90c78d11, type: 2}
+    weight: 0.3
+  - item: {fileID: 11400000, guid: 22c4d28151ad51d4eb0a949c24da5462, type: 2}
+    weight: 0.4
+  - item: {fileID: 11400000, guid: bd8d9a5e66d75824da484afb5a8927c1, type: 2}
+    weight: 0.5
+  - item: {fileID: 11400000, guid: e31429239cb168c4bb632da4eb97e1d6, type: 2}
+    weight: 0.4
+  quality: 2
+  weight: 0.2
